@@ -5,4 +5,3 @@ creating a  java file
 	expr init a + init b
 
 }
-print init a + init b
